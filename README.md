@@ -1,27 +1,26 @@
-﻿## Psikolog Web Sitesi (Next.js & Supabase)
+﻿## Psychologist Website (Next.js & Supabase)
 
-- Next.js (App Router) + TypeScript ile SEO uyumlu, mobil dostu arayÃ¼z
-- Randevu formu ve API uÃ§larÄ±yla uÃ§tan uca akÄ±ÅŸ
-- Supabase (PostgreSQL) Ã¼zerinde blog ve RLS politikalarÄ±
-- Vercel Ã¼zerinde hÄ±zlÄ± deploy
+- SEO-friendly, mobile-first website built with Next.js (App Router) + TypeScript
+- End-to-end appointment flow (UI + API) and blog module on Supabase (PostgreSQL)
+- Row Level Security (RLS) policies and triggers; ready for deployment on Vercel
 
-### Ekran GÃ¶rÃ¼ntÃ¼leri
+### Screenshots
 
-Ana sayfa:
+Homepage:
 
 ![Homepage](./public/homepage.png)
 
-Slider bÃ¶lÃ¼mÃ¼:
+Slider section:
 
 ![Slider](./public/slidersayfa.png)
 
-Randevu formu:
+Appointment form:
 
-![Randevu Al](./public/randevualsayfa.png)
+![Appointment](./public/randevualsayfa.png)
 
-Blog bÃ¶lÃ¼mÃ¼:
+Blog section:
 
 ![Blog](./public/blogsayfa.png)
 
-### Not
-Bu depo tanÄ±tÄ±m amaÃ§lÄ±dÄ±r; kaynak kodlar private repodadÄ±r.
+### Notes
+This repository is for portfolio/demo purposes only. Source code lives in a private repository.
