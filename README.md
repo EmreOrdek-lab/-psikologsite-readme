@@ -8,19 +8,19 @@
 
 Homepage:
 
-![Homepage](./public/homepage.png)
+![Homepage](./homepage.png)
+
 
 Slider section:
 
-![Slider](./public/slidersayfa.png)
+![Slider](./slidersayfa.png)
 
 Appointment form:
-
-![Appointment](./public/randevualsayfa.png)
+![Appointment](./randevualsayfa.png)
 
 Blog section:
 
-![Blog](./public/blogsayfa.png)
+![Blog](./blogsayfa.png)
 
 ### Notes
 This repository is for portfolio/demo purposes only. Source code lives in a private repository.
